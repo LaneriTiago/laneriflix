@@ -1,10 +1,12 @@
 import React from 'react';
+import Menu from './components/index';
+
 
 function App() {
   return (
-    <div >
-      Hello world!
-    </div>
+    <nav>
+      <Menu />
+    </nav>
   );
 }
 
