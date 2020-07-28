@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Belchior",
+      "link": "https://www.youtube.com/watch?v=HyHNuVaZJ-k",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Gorillaz - Feel Good Inc.",
+        "url": "https://www.youtube.com/watch?v=HyHNuVaZJ-k"
+      },
+      "videos": [
+        {
+          "titulo": "Gorillaz - Feel Good Inc.",
+          "url": "https://www.youtube.com/watch?v=HyHNuVaZJ-k"
+        },
+        {
+          "titulo": "Apenas Um Rapaz Latino Americano",
+          "url": "https://www.youtube.com/watch?v=p_xDKUQJlfM"
+        },
+        {
+          "titulo": "Fotografia 3 X 4",
+          "url": "https://www.youtube.com/watch?v=PjmhTx8ocI8"
+        },
+        {
+          "titulo": "Coração selvagem",
+          "url": "https://www.youtube.com/watch?v=fVNUe4np2SM"
+        },
+        {
+          "titulo": "Belchior - Saia do Meu Caminho",
+          "url": "https://www.youtube.com/watch?v=gGV1yyDMGSM&list=RDfVNUe4np2SM&index=3"
+        },
+        {
+          "titulo": "Alucinacao",
+          "url": "https://www.youtube.com/watch?v=Lr7ywDnQjvY&list=RDfVNUe4np2SM&index=6"
+        },
+        {
+          "titulo": "Divina Comédia Humana",
+          "url": "https://www.youtube.com/watch?v=nPbTs9ZJcfU&list=RDfVNUe4np2SM&index=2"
+        },
+        {
+          "titulo": "Tudo outra vez",
+          "url": "https://www.youtube.com/watch?v=EmdyZWrdcXs"
+        }        
+      ]
+    },
+    {
+      "titulo": "Linkin Park",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Linkin Park",
+        "url": "https://www.youtube.com/watch?v=3kaUvGSLMew"
+      },
+      "videos": [
+        {
+          "titulo": "One More Light (Official Audio) - Linkin Park",
+          "url": "https://www.youtube.com/watch?v=3kaUvGSLMew"
+        },
+        {
+          "titulo": "In The End (Official Video) - Linkin Park",
+          "url": "https://www.youtube.com/watch?v=eVTXPUF4Oz4"
+        },
+        {
+          "titulo": "Numb (Official Video) - Linkin Park",
+          "url": "https://www.youtube.com/watch?v=kXYiU_JCYtU&list=RDeVTXPUF4Oz4&index=2"
+        },
+        {
+          "titulo": "What I've Done (Official Video) - Linkin Park",
+          "url": "https://www.youtube.com/watch?v=8sgycukafqQ&list=RDeVTXPUF4Oz4&index=5"
+        }, 
+        {
+          "titulo": "Crawling (Official Video) - Linkin Park",
+          "url": "https://www.youtube.com/watch?v=Gd9OhYroLN0&list=RDeVTXPUF4Oz4&index=7"
+        }
+      ]
+    },
+    {
+      "titulo": "Iron Maiden",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Iron Maiden",
+        "url": "https://www.youtube.com/watch?v=p4w2BZXL6Ss"
+      },
+      "videos": [
+        {
+          "titulo": "Iron Maiden - Flight Of Icarus (Official Video)",
+          "url": "https://www.youtube.com/watch?v=p4w2BZXL6Ss"
+        },
+        {
+          "titulo": "Iron Maiden - Seventh Son of a Seventh Son",
+          "url": "https://www.youtube.com/watch?v=PptHWHfnCnY"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Iron Maiden - Afraid to Shoot Strangers",
+          "url": "https://www.youtube.com/watch?v=cZOSzgY_q-o"
+        }
+      ]
+    },
+    {
+      "titulo": "Foo Fighters",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Foo Fighters",
+          "url": "https://www.youtube.com/watch?v=eBG7P-K-r1Y"
+        },
+        {
+          "titulo": "Foo Fighters. Walk",
+          "url": "https://www.youtube.com/watch?v=4PkcfQtibmU"
+        },
+        {
+          "titulo": "Foo Fighters - The Pretender",
+          "url": "https://www.youtube.com/watch?v=SBjQ9tuuTJQ"
+        },
+        {
+          "titulo": "Foo Fighters - All My Life",
+          "url": "https://www.youtube.com/watch?v=xQ04WbgI9rg&list=RDSBjQ9tuuTJQ&index=6"
+        }
+      ]
+    },
+    {
+      "titulo": "Image Dragons",
+      "cor": "red",
+      "link_extra": {
+        "text": "Imagine Dragons",
+        "url": "https://www.youtube.com/watch?v=vOXZkm9p_zY"
+      },
+      "videos": [
+        {
+          "titulo": "Imagine Dragons - Birds ",
+          "url": "https://www.youtube.com/watch?v=vOXZkm9p_zY"
+        },
+        {
+          "titulo": "Imagine Dragons - Radioactive",
+          "url": "https://www.youtube.com/watch?v=ktvTqknDobU&list=RDvOXZkm9p_zY&index=3"
+        },
+        {
+          "titulo": "Imagine Dragons - Thunder",
+          "url": "https://www.youtube.com/watch?v=fKopy74weus&list=RDvOXZkm9p_zY&index=5"
+        },
+        {
+          "titulo": "Imagine Dragons - Natural",
+          "url": "https://www.youtube.com/watch?v=0I647GU3Jsc&list=RDvOXZkm9p_zY&index=7"
+        },
+        {
+          "titulo": "Imagine Dragons - Demons (Official Video)",
+          "url": "https://www.youtube.com/watch?v=mWRsgZuwf_8&list=RDvOXZkm9p_zY&index=2"
+        }
+      ]
+    },
+    {
+      "titulo": "Random",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Random",
+        "url": "https://www.youtube.com/watch?v=SDTZ7iX4vTQ"
+      },
+      "videos": [
+        {
+          "titulo": "Foster The People - Pumped up Kicks (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=SDTZ7iX4vTQ"
+        },
+        {
+          "titulo": "Clairo - Pretty Girl",
+          "url": "https://www.youtube.com/watch?v=mngtcfcaVrI"
+        },
+        {
+          "titulo": "Metallica: Nothing Else Matters",
+          "url": "https://www.youtube.com/watch?v=tAGnKpE4NCI"
+        },
+        {
+          "titulo": "the 1975 - somebody else",
+          "url": "https://www.youtube.com/watch?v=VNsd8Yo5zvc"
+        },
+        {
+          "titulo": "Legião Urbana-Quase Sem Querer",
+          "url": "https://www.youtube.com/watch?v=hZiS3agpM3U"
+        }
+      ]
+    }
+  ]
+}

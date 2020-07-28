@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../../src/img/logo.png';
+import Logo from './img/logo.png';
 import './menu.css'
 import ButtonLink from './component/button';
 
@@ -13,8 +13,6 @@ function Menu () {
         <ButtonLink className="ButtonLink" href="/">
             Novo vídeo
         </ButtonLink>
-
-
     </nav>
     )
 }
