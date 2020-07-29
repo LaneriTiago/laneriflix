@@ -29,7 +29,7 @@
   body {
     --bodyPaddingTop: 94px;
     padding-top: var(--bodyPaddingTop);
-    background-color: black;
+    background-color: #141414;
   }
 
   @media (max-width: 800px) {
