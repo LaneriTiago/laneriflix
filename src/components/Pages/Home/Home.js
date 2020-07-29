@@ -1,12 +1,12 @@
 import React from 'react';
-import Menu from './components/index';
-import Footer from './components/Footer';
-import dadosIniciais from './components/data/dados_iniciais.json';
-import BannerMain from './components/BannerMain';
-import Carousel from './components/Carousel';
+import Menu from '../../index';
+import Footer from '../../Footer';
+import dadosIniciais from '../../data/dados_iniciais.json';
+import BannerMain from '../../BannerMain';
+import Carousel from '../../Carousel';
 
 
-function App() {
+function App () {
   return (
     <nav>
       <Menu />
