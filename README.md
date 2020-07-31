@@ -20,3 +20,8 @@ Parte II
 - Deixar sempre o footer embaixo na página;
 - Criar o formulário para casdastrar categoria;
 
+Parte III
+
+- Criar componentes do formulário de cadastro das categorias;
+- Lidar com o state e criar elementos a partir dos inputs;
+
