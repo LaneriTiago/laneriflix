@@ -88,9 +88,7 @@ function CadastroCategoria() {
         </Button>
       </form>
 
-      <div>
-        Loading
-      </div>
+  
 
       <ul>
         {Categorias.map((categoria) => (
