@@ -10,7 +10,7 @@ function CadastroCategoria() {
     nome: '',
     descricao: '',
     cor: '#000',
-  };
+  }; 
   const [Values, setValues] = useState(ValoresIniciais);
 
   function setValue(chave, valor) {
